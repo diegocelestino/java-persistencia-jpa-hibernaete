@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 3.2 Criação do enum de categorias">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/CategoriaDao.java" afterDir="false" />
+    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Categoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDeProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDeProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655846166794</updated>
       <workItem from="1655846169858" duration="5023000" />
-      <workItem from="1655919334089" duration="6256000" />
+      <workItem from="1655919334089" duration="9142000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto Maven + Hibernate">
       <created>1655846553904</created>
@@ -130,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655922361388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aula 4">
+      <created>1655927823038</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655927823038</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +157,7 @@
     <MESSAGE value="Criação do projeto Maven + Hibernate" />
     <MESSAGE value="Aula 2." />
     <MESSAGE value="Aula 3.2 Criação do enum de categorias" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 3.2 Criação do enum de categorias" />
+    <MESSAGE value="Aula 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 4" />
   </component>
 </project>
