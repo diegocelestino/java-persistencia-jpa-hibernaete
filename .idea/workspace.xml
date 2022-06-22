@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 2.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/util/JPAUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 3.2 Criação do enum de categorias">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/CategoriaDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Categoria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDeProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDeProduto.java" afterDir="false" />
     </list>
@@ -75,6 +73,10 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.alura.loja.modelo" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\IdeaProjects\loja\src\main\java\br\com\alura\loja\dao" />
+      <recent name="C:\Users\diego\IdeaProjects\loja\src\main\java\br\com\alura\loja\testes" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="CadastroDeProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -105,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655846166794</updated>
       <workItem from="1655846169858" duration="5023000" />
-      <workItem from="1655919334089" duration="2414000" />
+      <workItem from="1655919334089" duration="6256000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto Maven + Hibernate">
       <created>1655846553904</created>
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655863882379</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula 3.2 Criação do enum de categorias">
+      <created>1655922361388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655922361388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do projeto Maven + Hibernate" />
     <MESSAGE value="Aula 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 2." />
+    <MESSAGE value="Aula 3.2 Criação do enum de categorias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 3.2 Criação do enum de categorias" />
   </component>
 </project>

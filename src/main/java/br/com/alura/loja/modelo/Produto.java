@@ -15,9 +15,17 @@ public class Produto {
     private String descricao;
     private BigDecimal preco;
     private LocalDate dataAbertura = LocalDate.now();
-
-    @Enumerated(EnumType.STRING)
+    @ManyToOne
     private Categoria categoria;
+
+    public Produto(String nome, String descricao, BigDecimal preco, Categoria categoria) {
+        this.nome = nome;
+        this.descricao = descricao;
+        this.preco = preco;
+        this.categoria = categoria;
+    }
+    public Produto() {}
+
 
     public LocalDate getDataAbertura() {
         return dataAbertura;
@@ -27,20 +35,8 @@ public class Produto {
         this.dataAbertura = dataAbertura;
     }
 
-    public Categoria getCategoria() {
-        return categoria;
-    }
-
     public void setCategoria(Categoria categoria) {
         this.categoria = categoria;
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
     }
 
     public String getNome() {
