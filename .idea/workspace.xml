@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 6 (Aula 1 Curso 2)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/vo/RelatorioDeVendasVo.java" afterDir="false" />
+    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 7 (Aula 2 Curso 2)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/DadosPessoais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Informatica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/PerformanceConsultas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/PedidoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/PedidoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/ItemPedido.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDePedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDePedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,32 +60,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "C:/Users/diego/IdeaProjects/loja/src/main/java/br/com/alura/loja",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/diego/IdeaProjects/loja/src/main/java/br/com/alura/loja&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.alura.loja.modelo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\diego\IdeaProjects\loja\src\main\java\br\com\alura\loja\dao" />
       <recent name="C:\Users\diego\IdeaProjects\loja\src\main\java\br\com\alura\loja\testes" />
+      <recent name="C:\Users\diego\IdeaProjects\loja\src\main\java\br\com\alura\loja\dao" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.loja.modelo" />
       <recent name="br.com.alura.loja.dao" />
     </key>
   </component>
@@ -127,7 +133,8 @@
       <option name="presentableId" value="Default" />
       <updated>1655846166794</updated>
       <workItem from="1655846169858" duration="5023000" />
-      <workItem from="1655919334089" duration="18535000" />
+      <workItem from="1655919334089" duration="18680000" />
+      <workItem from="1656006805394" duration="5698000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto Maven + Hibernate">
       <created>1655846553904</created>
@@ -171,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655940940217</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aula 7 (Aula 2 Curso 2)">
+      <created>1655944998840</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655944998844</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +209,7 @@
     <MESSAGE value="Aula 4" />
     <MESSAGE value="Aula 5" />
     <MESSAGE value="Aula 6 (Aula 1 Curso 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 6 (Aula 1 Curso 2)" />
+    <MESSAGE value="Aula 7 (Aula 2 Curso 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 7 (Aula 2 Curso 2)" />
   </component>
 </project>
