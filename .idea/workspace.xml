@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 7 (Aula 2 Curso 2)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/DadosPessoais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Informatica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/PerformanceConsultas.java" afterDir="false" />
+    <list default="true" id="3c895492-d7de-499e-a7fe-c2ddc900d350" name="Changes" comment="Aula 8 (Aula 3 Curso 2)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/PedidoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/PedidoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Informatica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Informatica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +127,7 @@
       <updated>1655846166794</updated>
       <workItem from="1655846169858" duration="5023000" />
       <workItem from="1655919334089" duration="18680000" />
-      <workItem from="1656006805394" duration="5698000" />
+      <workItem from="1656006805394" duration="6433000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto Maven + Hibernate">
       <created>1655846553904</created>
@@ -185,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655944998844</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aula 8 (Aula 3 Curso 2)">
+      <created>1656013610928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656013610928</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +210,7 @@
     <MESSAGE value="Aula 5" />
     <MESSAGE value="Aula 6 (Aula 1 Curso 2)" />
     <MESSAGE value="Aula 7 (Aula 2 Curso 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 7 (Aula 2 Curso 2)" />
+    <MESSAGE value="Aula 8 (Aula 3 Curso 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 8 (Aula 3 Curso 2)" />
   </component>
 </project>
